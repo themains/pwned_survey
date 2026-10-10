@@ -68,7 +68,7 @@ Ken Cor and Gaurav Sood
 
 ## Adjacent repositories
 
-- [reg_breach](https://github.com/themains/reg_breach): HIBP evidence from voter-registration emails.
+- [reg_breach](https://github.com/themains/pwned_voters): HIBP evidence from voter-registration emails.
 - [pwned_pols](https://github.com/themains/pwned_pols): data exposure among politicians.
 - [private_blacklight](https://github.com/themains/private_blacklight): privacy online and the digital divide.
 - [private_gov](https://github.com/themains/private_gov): tracking on government websites.
