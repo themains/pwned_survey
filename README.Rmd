@@ -47,7 +47,7 @@ OLS inference is retained for comparability. `results/coefficients.csv` also rep
 
 - [YouGov profiles](data/YGOV1058_profile.csv) and [codebook](data/Profile_codebook_ygov1058.pdf)
 - [Individual HIBP records](data/YGOV1058_pwned.csv), [archived API documentation](data/hibp_v2_api.pdf), and [codebook](data/hibp_codebook.xlsx)
-- [Archived breach catalogue](data/breaches.json)
+- [Archived breach catalog](data/breaches.json)
 - [CPS summary](data/cps_2018.csv) and [source workbook](data/cps_2018.xlsx)
 - [Tables](tabs/), [figures](figs/), and [manuscript sources](ms/)
 
